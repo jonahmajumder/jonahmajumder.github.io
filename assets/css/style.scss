@@ -1,0 +1,76 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header_wrap .inner {
+  padding: 50px 10px 40px 10px;
+}
+
+.menu_item {
+  display: block;
+  float: right;
+  margin: 10px;
+  text-indent: -5000px;
+  overflow: hidden;
+  background-repeat: no-repeat;
+  width:  70px;
+  height: 70px;
+}
+
+#menu_home {
+	background: url(../link_icons/home.svg);
+}
+
+#menu_home:hover {
+	background-image: url(../link_icons/home_hover.svg);
+}
+
+#menu_about {
+	background-image: url(../link_icons/about.svg);
+}
+
+#menu_about:hover {
+	background-image: url(../link_icons/about_hover.svg);
+}
+
+#menu_research {
+	background-image: url(../link_icons/research.svg);
+}
+
+#menu_research:hover {
+	background-image: url(../link_icons/research_hover.svg);
+}
+
+#menu_projects {
+	background-image: url(../link_icons/projects.svg);
+}
+
+#menu_projects:hover {
+	background-image: url(../link_icons/projects_hover.svg);
+}
+
+#menu_contact {
+	background-image: url(../link_icons/contact.svg);
+}
+
+#menu_contact:hover {
+	background-image: url(../link_icons/contact_hover.svg);
+}
+
+#menu_credits {
+	background-image: url(../link_icons/credits.svg);
+}
+
+#menu_credits:hover {
+	background-image: url(../link_icons/credits_hover.svg);
+}
+
+
+#main_content {
+	padding-top: 5px;
+}
+
+.inner {
+	clear: both;
+}
