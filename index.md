@@ -4,25 +4,18 @@ title: Home
 ---
 <style type="text/css">
 	
-/*	.container {
+	.container {
 		display: inline-block;
+		width: 100%;
 	}
 
 	#frontpagephoto {
-		display: inline-block;
-		width: 98%;
-		height: auto;
-		z-index: 1;
+		box-sizing: border-box;
 	}
 
 	.overlay {
 	  position: absolute;
-	  top: 0;
-	  bottom: 0;
-	  left: 1.5%;
-	  right: 1.5%;
-	  display: inline-block;
-	  width: 97%;
+	  display: inline;
 	  opacity: 0;
 	  transition: 0.3s ease;
 	  background-color: #000000;
@@ -32,7 +25,7 @@ title: Home
 		opacity: 0.5;
 	}
 
-	#otext {
+/*	#otext {
 	  color: white;
 	  font-size: 20px;
 	  position: absolute;
@@ -54,5 +47,8 @@ title: Home
 
 <p>
 	This is a website I've put together to explain a little bit about myself, list some of my interests, and showcase a few projects I'm working on/have completed.
+</p>
+<p>
+	Check out my latest project, a web version of <a href="https://jonahmajumder.github.io/webtetris/">Tetris</a>.
 </p>
 

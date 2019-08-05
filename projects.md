@@ -25,5 +25,8 @@ title: Projects
 		<div><p>Studying for the MCAT is tough, but I find that making and testing myself with flashcards is the most effective way to internalize information. Harnessing the power of Python and <a href="https://www.qt.io/developers/">Qt</a>, I've developed a macOS application called "Flash" to parse defintion text files and test a user on anything from sociology to physics. I'm still working on making the app truly "standalone," but all the Python source code is <a href="https://github.com/jonahmajumder/flash">here.</a></p>
 			</div>
 	</li>
+	<li>
+		My latest project, a mobile-compatible web app Tetris game. Find it <a href="https://jonahmajumder.github.io/webtetris">here</a>.
+	</li>
 </ul>
 </div>
