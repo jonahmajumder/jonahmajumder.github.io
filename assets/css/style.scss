@@ -18,6 +18,16 @@
   height: 70px;
 }
 
+.textit {
+	font-style: italic;
+}
+
+.blockindent {
+	display: inline-block;
+	margin-left: 1em;
+	margin-right: 4em;
+}
+
 #menu_home {
 	background: url(../link_icons/home.svg);
 }

@@ -48,7 +48,7 @@ title: Home
 <p>
 	This is a website I've put together to explain a little bit about myself, list some of my interests, and showcase a few projects I'm working on/have completed.
 </p>
-<p>
-	Check out my latest project, a web version of <a href="https://jonahmajumder.github.io/webtetris/">Tetris</a>.
-</p>
+<h6>
+	Check out my recently updated <a href="research">research</a> section!
+</h6>
 
