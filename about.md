@@ -13,6 +13,6 @@ title: About
 
 <p>A recent copy of my resume can be accessed at the link below.</p>
 
-<h6><a href="Resume_JonahMajumder.pdf">2019 Resume</a></h6>
+<h6><a href="Resume_JonahMajumder.pdf" target="_blank">2019 Resume</a></h6>
 
 <p>Please check out my <a href="research">research</a> section for information about my work and my <a href="projects">projects</a> section to see some random things I've been working on for fun.
