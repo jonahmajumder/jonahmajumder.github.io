@@ -7,12 +7,19 @@ title: Research
 
 <h4>Quantum Sensing at MIT Lincoln Laboratory</h4>
 
-<p>For the past couple years, I've worked as an "Assistant Staff Scientist" at MIT Lincoln Laboratory in the <a href="https://www.ll.mit.edu/r-d/advanced-technology/quantum-information-and-integrated-nanosystems" target="_blank">quantum information</a> group.</p>
+<p>For the past couple years, I've worked as an assistant staff scientist at MIT Lincoln Laboratory, in the <a href="https://www.ll.mit.edu/r-d/advanced-technology/quantum-information-and-integrated-nanosystems" target="_blank">quantum information group</a>.</p>
 
-<p>However, my research team focuses on what we call <span class="textit">quantum sensing.</span> The abstract of a 2017 <a href="https://arxiv.org/abs/1611.02427" target="_blank">review paper</a> gives a nice description of quantum sensing:</p>
+<p>My research team focuses on what we call <span class="textit">quantum sensing.</span> The abstract of a 2017 review paper gives a nice description of quantum sensing:</p>
 
 <span class="textit blockindent">
 	"Quantum sensing" describes the use of a quantum system, quantum properties or quantum phenomena to perform a measurement of a physical quantity. ... The field is expected to provide new opportunities - especially with regard to high sensitivity and precision - in applied physics and other areas of science.
+</span>
+
+<span class="blockindent">
+	<a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.89.035002
+	" target="_blank">
+	C. L. Degen, F. Reinhard, and P. Cappellaro, Reviews of Modern Physics <strong>89,</strong> (2017).</a>
+	<a href="https://arxiv.org/abs/1611.02427" target="_blank">(arXiv)</a>
 </span>
 
 <div style="display: flex; flex-direction: row; justify-content: space-around;">

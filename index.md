@@ -36,19 +36,13 @@ title: Home
 
 </style>
 
-<div class="container">
-	<div class="overlay">
-		<div id="otext">A hidden cove near Arikok National Park, Aruba, Dec 2018.</div>
-	</div>
-	<img id="frontpagephoto" src="cove.jpg"/>
+<div style="text-align: center;">
+<img src="jonah.jpg" width="40%"/>
 </div>
 
-<h2>Thanks for visiting my website.</h2>
+<h3>Hi, I'm Jonah! Thanks for visiting my website.</h3>
 
 <p>
-	This is a website I've put together to explain a little bit about myself, list some of my interests, and showcase a few projects I'm working on/have completed.
+	This is a website I've put together to explain a little bit about myself, list some of my interests, and showcase a few projects I'm working on. Click the icons at the top of the page to learn more about me!
 </p>
-<h6>
-	Check out my recently updated <a href="research">research</a> section!
-</h6>
 
