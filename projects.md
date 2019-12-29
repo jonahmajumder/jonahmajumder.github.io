@@ -17,7 +17,7 @@ title: Projects
 
 <div id="outer">
 <ul>
-	<li><p>This website! I've taken advantage of Github's single free hosted website to create this, and I've incorprated a Jekyll theme for the styling.</p></li>
+	<li><p>This website! I've taken advantage of Github's free website hosting to create this, and I've incorprated a Jekyll theme for the styling.</p></li>
 	<li>
 		<div>
 			<p>As someone who tries to exercise regularly, I found myself lacking a (free) app to precisely schedule the timing of my workouts. So I decided to build a web app to do exactly this, allowing the user to plan out every individual active and rest period. <a href="https://jonahmajumder.github.io/interval-timer">Check it out!</a></p>
