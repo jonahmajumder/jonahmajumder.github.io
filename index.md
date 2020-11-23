@@ -40,7 +40,7 @@ title: Home
 <img src="jonah.jpg" width="40%"/>
 </div>
 
-<h3>Hi, I'm Jonah! Thanks for visiting my website.</h3>
+<h3>Hi, I'm Jonah! Welcome to my website.</h3>
 
 <p>
 	This is a website I've put together to explain a little bit about myself, list some of my interests, and showcase a few projects I'm working on. Click the icons at the top of the page to learn more about me!

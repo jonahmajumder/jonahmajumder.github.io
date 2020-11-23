@@ -5,6 +5,10 @@ title: Research
 
 <h2>Research</h2>
 
+<h4>Columbia Biomedical Engineering</h4>
+
+<p>Though I have yet to formally start doing research at Columbia, I've  begun taking classes towards my PhD in Biomedical Engineering. I'm excited to explore Columbia's many research opportunities at the intersection of physics, engineering, and medicine.</p>
+
 <h4>Quantum Sensing at MIT Lincoln Laboratory</h4>
 
 <p>For the past couple years, I've worked as an assistant staff scientist at MIT Lincoln Laboratory, in the <a href="https://www.ll.mit.edu/r-d/advanced-technology/quantum-information-and-integrated-nanosystems" target="_blank">quantum information group</a>.</p>
